@@ -1,0 +1,5 @@
+This is a .Rmd file
+
+You can run both R and Python in it.
+
+Furthermore, you can add HTML, CSS, and JavaScript easily.
